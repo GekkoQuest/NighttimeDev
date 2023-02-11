@@ -1,4 +1,4 @@
-### 👋 Hey, I'm John, a software developer based in Texas!
+### 👋 Hey, I'm John, a software engineer based in Texas!
 - 🔭 I’m currently working on Florescent
 - 🌱 I’m currently learning GO
 - 💬 Ask me about anything cybersecurity
