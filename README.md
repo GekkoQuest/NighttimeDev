@@ -1,6 +1,6 @@
 ### 👋 Hey, I'm John, a software engineer based in Texas!
-- 🔭 I’m currently working on Florescent
-- 🌱 I’m currently learning GO
+- 🔭 I’m currently working on Sattelite!
+- 🌱 I’m currently learning Spring Microservices as well as GO
 - 💬 Ask me about anything cybersecurity
 - 📫 How to reach me: john@nighttime.dev
 
