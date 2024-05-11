@@ -1,7 +1,6 @@
 ### 👋 Hey, I'm John, a software engineer based in Texas!
-- 🔭 I’m currently working on Sattelite!
+- 🔭 I’m currently working on N/A!
 - 🌱 I’m currently learning Spring Microservices as well as GO
-- 💬 Ask me about anything cybersecurity
-- 📫 How to reach me: john@nighttime.dev
+- 📫 How to reach me: john@gekko.quest
 
-![NighttimeDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=NighttimeDev&show_icons=true&theme=nord)
+![GekkoQuest's GitHub stats](https://github-readme-stats.vercel.app/api?username=GekkoQuest&show_icons=true&theme=nord)
